@@ -27,55 +27,55 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div style="text-align: center;">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/html.png" alt="html5" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/css.png" alt="css3" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/javascript.png" alt="javascript" width="40" height="40" />
   </a>
-  <a href="https://docs.python.org/3/tutorial/index.html" target="_blank" rel="noreferrer">
+  <a href="https://docs.python.org/3/tutorial/index.html" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/python.png" alt="python" width="40" height="40" />
   </a>
-  <a href="https://legacy.reactjs.org/tutorial/tutorial.html" target="_blank" rel="noreferrer">
+  <a href="https://legacy.reactjs.org/tutorial/tutorial.html" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/react.png" alt="react" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/mysql.png" alt="mysql" width="40" height="40" />
   </a>
-  <a href="https://www.sqlitetutorial.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.sqlitetutorial.net/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/sqlite.png" alt="sqlite" width="40" height="40" />
   </a>
-  <a href="https://www.mongodb.com/docs/manual/tutorial/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/docs/manual/tutorial/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/mongo-db.png" alt="mongo-db" width="40" height="40" />
   </a>
-  <a href="https://git-scm.com/docs/gittutorial" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/docs/gittutorial" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/git.png" alt="git" width="40" height="40" />
   </a>
-  <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world" target="_blank" rel="noreferrer">
+  <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/github.png" alt="github" width="40" height="40" />
   </a>
-  <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/bootstrap.png" alt="bootstrap" width="40" height="40" />
   </a>
-  <a href="https://www.djangoproject.com/start/" target="_blank" rel="noreferrer">
+  <a href="https://www.djangoproject.com/start/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/django.png" alt="django" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/css/css_rwd_intro.asp" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/css_rwd_intro.asp" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/res.png" alt="res" width="40" height="40" />
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/api.png" alt="api" width="40" height="40" />
   </a>
-  <a href="https://go.dev/doc/tutorial/getting-started" target="_blank" rel="noreferrer">
+  <a href="https://go.dev/doc/tutorial/getting-started" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/go.png" alt="go" width="40" height="40" />
   </a>
-  <a href="https://flask.palletsprojects.com/en/2.3.x/tutorial/" target="_blank" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/en/2.3.x/tutorial/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/flask.png" alt="flask" width="40" height="40" />
   </a>
-  <a href="https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/" target="_blank" rel="noreferrer">
+  <a href="https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/Deepanraj1508/images/main/skills/auth.png" alt="auth" width="40" height="40" />
   </a>
 </div>
